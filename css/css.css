@@ -17,7 +17,10 @@ h1{
 }
 nav{
 	background-color: #99bbff;
-	width
+	width: 100%;
+}
+nav ul{
+	padding-left: 20px;
 }
 .img-top{
 	width: 100%;
