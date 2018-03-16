@@ -39,6 +39,9 @@ a{
 	padding: 10px;
 	border-bottom: 1px solid gray;
 }
+.con-nav2 a:hover{
+	color: #000099;
+}
 .title{
 	padding: 10px;
 	text-align: center;
@@ -61,7 +64,8 @@ h2{
 	margin: 20px;
 	padding: 20px;
 	background-color: #f2f2f2;
-}.index-item-list h3{
+}
+.index-item-list h3{
 	text-align: center;
 }
 .index-item-list ul{
@@ -107,6 +111,47 @@ h2{
 	padding: 10px;
 	border-top: 1px solid black;
 }
+.product-img{
+	box-sizing: border-box;
+	float: left;
+	padding: 0 40px;
+}
+.product-img img{
+	width: 100%;
+	display: block;
+}
+.product-spec{
+	box-sizing: border-box;
+	float: left;
+	padding: 0 40px;
+}
+.product-spec h2{
+	margin-top: 50px;
+}
+.product-spec h3{
+	font-weight:normal;
+	font-size: 20px;
+}
+.product-clear{
+	border: 0;
+	height: 1px;
+	background-color: #d9d9d9;
+}
+.product-feat{
+	box-sizing: border-box;
+	float: left;
+	padding: 0 40px;
+}
+.product-feat h3{
+	font-weight:normal;
+	font-size: 20px;
+}
+.product-feat p{
+	margin: 5px 0;
+}
+.product-clear{
+	clear: both;
+}
 .about-us-ul li{
 	display: list-item;
 }
@@ -134,8 +179,12 @@ h2{
 	border-bottom: 1px solid black;
 }
 .bottom p{
-	margin: 1px;
+	margin: 10px 0;
 	color: #666666;
+	border-bottom: 1px dashed #999999;
+}
+.bottom a:hover{
+	color: #000099;
 }
 footer{
 	background-color: #99bbff;
@@ -168,6 +217,15 @@ footer{
 	.img-item{
 		width: 100%;
 	}
+	.product-img{
+		width: 100%;
+	}
+	.product-spec{
+		width: 100%;
+	}
+	.product-feat{
+		width: 100%;
+	}
 }
 
 @media (max-width: 719px) and (min-width: 512px){
@@ -193,6 +251,18 @@ footer{
 	.img-item{
 		width: 100%;
 	}
+	.product-img{
+		width: 100%;
+	}
+	.product-spec{
+		width: 100%;
+	}
+	.product-feat{
+		width: 100%;
+	}
+	.bot-right{
+		margin-top: 40px;
+	}
 }
 
 @media (max-width: 959px) and (min-width: 720px){
@@ -215,6 +285,25 @@ footer{
 	.packaging-machinery{
 		padding: 10px;
 	}
+	.product-img{
+		width: 50%;
+	}
+	.product-spec{
+		width: 50%;
+	}
+	.product-feat{
+		width: 50%;
+	}
+	.bot-left{
+		float: left;
+		width: 40%;
+		padding: 0 25px;
+	}
+	.bot-right{
+		float: left;
+		width: 45%;
+		padding: 0 25px;
+	}
 }
 
 @media (max-width: 1151px) and (min-width: 960px){
@@ -236,6 +325,25 @@ footer{
 	}
 	.packaging-machinery{
 		padding: 10px;
+	}
+	.product-img{
+		width: 50%;
+	}
+	.product-spec{
+		width: 50%;
+	}
+	.product-feat{
+		width: 50%;
+	}
+	.bot-left{
+		float: left;
+		width: 50%;
+		padding-left: 20px;
+	}
+	.bot-right{
+		float: left;
+		width: 40%;
+		padding-left: 50px;
 	}
 }
 
@@ -261,6 +369,15 @@ footer{
 	}
 	.packaging-machinery img{
 		margin: 10px 0;
+	}
+	.product-img{
+		width: 50%;
+	}
+	.product-spec{
+		width: 50%;
+	}
+	.product-feat{
+		width: 50%;
 	}
 	.bot-left{
 		float: left;
