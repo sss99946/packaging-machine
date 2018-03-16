@@ -114,7 +114,7 @@ h2{
 .product-img{
 	box-sizing: border-box;
 	float: left;
-	padding: 0 40px;
+	padding: 0 20px;
 }
 .product-img img{
 	width: 100%;
@@ -123,7 +123,7 @@ h2{
 .product-spec{
 	box-sizing: border-box;
 	float: left;
-	padding: 0 40px;
+	padding: 0 20px;
 }
 .product-spec h2{
 	margin-top: 50px;
@@ -136,11 +136,12 @@ h2{
 	border: 0;
 	height: 1px;
 	background-color: #d9d9d9;
+	margin: 25px 0;
 }
 .product-feat{
 	box-sizing: border-box;
 	float: left;
-	padding: 0 40px;
+	padding: 0 20px;
 }
 .product-feat h3{
 	font-weight:normal;
