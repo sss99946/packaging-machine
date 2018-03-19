@@ -80,10 +80,6 @@ h2{
 .index-img img{
 	width: 100%;
 }
-.index-clear{
-	clear: both;
-	padding: 5px 20px;
-}
 .con-item{
 	float: left;
 	box-sizing: border-box;
