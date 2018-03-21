@@ -1,191 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://tsungho.com.tw/</loc><!-- 首頁 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/index.html</loc><!-- 首頁 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/index.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products.html</loc><!-- 產品項目 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/about-us.html</loc><!-- 關於我們 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/about-us.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/map.html</loc><!--地理位置 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/map.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel.html</loc><!-- 全自動L型封口收縮包裝機組 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+tha-pof-40-20-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-500+THA-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+tha-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-pof-40-20-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-500+TH-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-pof-60-30-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-500+TH-POF60/30ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-pof-60-30-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-mrst-40-20.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-500+TH-MRST40/20 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-500+th-mrst-40-20.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+tha-pof-40-20-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-700+THA-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+tha-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-pof-40-20-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-700+TH-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-pof-60-30-st.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-700+TH-POF60/30ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-pof-60-30-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-mrst-40-20.html</loc><!-- 全自動L型封口收縮包裝機組 THLA-700+TH-MRST40/20 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer-n-shrink-tunnel/thla-700+th-mrst-40-20.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel.html</loc><!-- 半自動L型封口收縮包裝機組 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+tha-pof-40-20-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-600A+THA-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+tha-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-pof-40-20-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-600A+TH-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-pof-60-30-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-600A+TH-POF60/30ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-pof-60-30-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-mrst-40-20.html</loc><!-- 半自動L型封口收縮包裝機組 THL-600A+TH-MRST40/20 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-600a+th-mrst-40-20.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+tha-pof-40-20-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-500A+THA-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+tha-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-pof-40-20-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-500A+TH-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-pof-60-30-st.html</loc><!-- 半自動L型封口收縮包裝機組 THL-500A+TH-POF60/30ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-pof-60-30-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-mrst-40-20.html</loc><!-- 半自動L型封口收縮包裝機組 THL-500A+TH-MRST40/20 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer-n-shrink-tunnel/thl-500a+th-mrst-40-20.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer.html</loc><!-- 全自動L型封口包裝機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer/thla-500.html</loc><!-- 全自動L型封口包裝機(THLA-500) -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer/thla-500.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-l-type-sealer/thla-700.html</loc><!-- 全自動L型封口包裝機(THLA-700) -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-l-type-sealer/thla-700.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer.html</loc><!-- 半自動L型封口包裝機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer/thl-600a.html</loc><!-- 半自動L型封口包裝機(THL-600a) -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer/thl-600a.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/semi-auto-l-type-sealer/thl-500a.html</loc><!-- 半自動L型封口包裝機(THL-500a) -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/semi-auto-l-type-sealer/thl-500a.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/blister-packing-machine.html</loc><!-- 泡殼包裝機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/blister-packing-machine.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/blister-packing-machine/th-400a.html</loc><!-- 泡殼包裝機 TH-400A -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/blister-packing-machine/th-400a.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/blister-packing-machine/th-500a.html</loc><!-- 泡殼包裝機 TH-500A -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/blister-packing-machine/th-500a.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/blister-packing-machine/th-500b.html</loc><!-- 泡殼包裝機 TH-500B -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/blister-packing-machine/th-500b.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/blister-packing-machine/th-600a.html</loc><!-- 泡殼包裝機 TH-600A -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/blister-packing-machine/th-600a.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/skin-packaging-machine.html</loc><!-- 密著包裝機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/skin-packaging-machine.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/skin-packaging-machine/th-800.html</loc><!-- 密著包裝機 TH-800 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/skin-packaging-machine/th-800.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel.html</loc><!-- 收縮機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel/tha-pof-40-20-st.html</loc><!-- 收縮機-高速熱風系列 THA-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel/tha-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel/th-pof-40-20-st.html</loc><!-- 收縮機-POF系列 TH-POF40/20ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel/th-pof-40-20-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel/th-pof-60-30-st.html</loc><!-- 收縮機-POF系列 TH-POF60/30ST -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel/th-pof-60-30-st.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel/th-mrst-40-20.html</loc><!-- 收縮機-紅外線系列 TH-MRST40/20 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel/th-mrst-40-20.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/shrink-tunnel/th-mrst-35-15.html</loc><!-- 收縮機-迷你紅外線系列 TH-MRST35/15 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/shrink-tunnel/th-mrst-35-15.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-vacuum-sealing-machine.html</loc><!-- 自動真空包裝機 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-vacuum-sealing-machine.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-300.html</loc><!-- 自動真空包裝機 TH-300 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-300.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-420.html</loc><!-- 自動真空包裝機 TH-420 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-420.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-700.html</loc><!-- 自動真空包裝機 TH-700 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/products/automatic-vacuum-sealing-machine/th-700.html"/>
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/404.html</loc><!-- 頁面不存在 -->
-		<xhtml:link rel="alternate" hreflang="zh-TW" href="http://tsungho.com.tw/404.html"/>
 	</url>
 </urlset>
