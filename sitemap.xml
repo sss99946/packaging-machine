@@ -10,6 +10,12 @@
 		<loc>http://tsungho.com.tw/products.html</loc><!-- 產品項目 -->
 	</url>
 	<url>
+		<loc>http://tsungho.com.tw/products/</loc><!-- 產品項目2 -->
+	</url>
+	<url>
+		<loc>http://tsungho.com.tw/products</loc><!-- 產品項目3 -->
+	</url>
+	<url>
 		<loc>http://tsungho.com.tw/about-us.html</loc><!-- 關於我們 -->
 	</url>
 	<url>
