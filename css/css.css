@@ -198,7 +198,10 @@ footer{
 		width: 100%;
 	}
 	nav ul{
-		padding-left: 5%;
+		padding-left: 2%;
+	}
+	li{
+		margin: 10px 5px;
 	}
 	.homepage
 	{
