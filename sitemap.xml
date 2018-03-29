@@ -4,16 +4,7 @@
 		<loc>http://tsungho.com.tw/</loc><!-- 首頁 -->
 	</url>
 	<url>
-		<loc>http://tsungho.com.tw/index.html</loc><!-- 首頁 -->
-	</url>
-	<url>
 		<loc>http://tsungho.com.tw/products.html</loc><!-- 產品項目 -->
-	</url>
-	<url>
-		<loc>http://tsungho.com.tw/products/</loc><!-- 產品項目2 -->
-	</url>
-	<url>
-		<loc>http://tsungho.com.tw/products</loc><!-- 產品項目3 -->
 	</url>
 	<url>
 		<loc>http://tsungho.com.tw/about-us.html</loc><!-- 關於我們 -->
