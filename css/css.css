@@ -1,6 +1,7 @@
 @charset "utf-8";
 *{
 	font-family: "微軟正黑體", Sans-serif;
+	theme-color: #000099;
 }
 body{
 	margin: 0;
