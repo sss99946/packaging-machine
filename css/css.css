@@ -7,6 +7,7 @@ body{
 }
 h1{
 	display: none;
+	color: #000099;
 }
 .container{
 	margin: 0 auto;
