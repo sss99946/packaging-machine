@@ -6,7 +6,6 @@ body{
 	margin: 0;
 }
 h1{
-	display: none;
 	color: #000099;
 }
 .container{
@@ -49,6 +48,7 @@ a{
 h2{
 	margin: 0;
 	color: #000099;
+	font-size:1.2em;
 }
 .con-float{
 	margin: 10px;
@@ -63,9 +63,6 @@ h2{
 	box-sizing: border-box;
 	padding: 20px;
 	background-color: #f2f2f2;
-}
-.index-item h3{
-	color: #000099;
 }
 .index-item a{
 	color: #000099;
@@ -117,12 +114,8 @@ h2{
 	float: left;
 	padding: 0 20px;
 }
-.product-spec h2{
+.product-spec h1{
 	margin-top: 50px;
-}
-.product-spec h3{
-	font-weight:normal;
-	font-size: 20px;
 }
 .product-clear{
 	border: 0;
@@ -134,10 +127,6 @@ h2{
 	box-sizing: border-box;
 	float: left;
 	padding: 0 20px;
-}
-.product-feat h3{
-	font-weight:normal;
-	font-size: 20px;
 }
 .product-feat p{
 	margin: 5px 0;
@@ -175,6 +164,11 @@ h2{
 	margin: 10px 0;
 	color: #666666;
 	border-bottom: 1px dashed #999999;
+}
+h3{
+	margin: 0;
+	color: #000099;
+	font-size:1.5em;
 }
 .bottom a:hover{
 	color: #000099;
